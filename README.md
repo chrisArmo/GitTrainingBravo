@@ -8,6 +8,10 @@ An introduction to Git and its various commands and capabilities, slowly transit
 
 ## Purpose
 
+For those who want to add more Git awesomeness to their development tool belt, this is the perfect place to start.
+
 ## Deployment
+
+Application can be deployed on any web browser like Google Chrome or web server like a NodeJS server or even an IDE plugin like Live Server.
 
 ## How To Contribute

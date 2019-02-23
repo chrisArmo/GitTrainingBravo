@@ -15,3 +15,9 @@ For those who want to add more Git awesomeness to their development tool belt, t
 Application can be deployed on any web browser like Google Chrome or web server like a NodeJS server or even an IDE plugin like Live Server.
 
 ## How To Contribute
+
+
+
+### Copyright
+
+Git Training 2019

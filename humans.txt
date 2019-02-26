@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Pistachio Jones -- Junior Developer -- @Jones_Pistachio
 
 # THANKS
 

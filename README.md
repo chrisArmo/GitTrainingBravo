@@ -1,6 +1,7 @@
 # Git Training Bravo
 
 Git Training Bravo is a simple project used solely to practice and refine Git skills.
+Practice enough and you can become a certified Git baddie ;)
 
 ## Introduction
 

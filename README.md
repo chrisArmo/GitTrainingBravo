@@ -6,6 +6,16 @@ Practice enough and you can become a certified Git baddie ;)
 ## Introduction
 
 An introduction to Git and its various commands and capabilities, slowly transitioning to more advanced Git concepts and methods using a web project.
+You'll learn how to:
+
+- add & remove files to the staging area
+- commit staged files
+- create branches for feature work
+- merge branches & resolve conflicts
+- rebase branches for cleaner merging
+- stashing changes for later
+- creating & adding tags to commits
+- and much more
 
 ## Purpose
 

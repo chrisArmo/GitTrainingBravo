@@ -4,8 +4,10 @@
 # TEAM
 
     Pistachio Jones -- Junior Developer -- @Jones_Pistachio
-    James Bronziak -- Web Designer -- @BronzeJ
-    Ashlyn Brooklyn -- Team Lead -- @ASHbrook
+    Marilyn Alvarez -- Web Designer -- @LeBebeLuna
+    Celeste Sosa -- Front End Lead -- @celesteYmoon
+    Jax Newton -- Back End Lead -- @jnewt
+    Bree Sparrow -- Team Lead -- @2breezyB
 
 # THANKS
 

@@ -28,6 +28,7 @@ Application can be deployed on any web browser like Google Chrome or web server 
 ## How To Contribute
 
 Fork the repository and issue a pull request through whichever Git method you prefer.
+Then Git to it and start contributing with your bad self.
 
 ### Copyright
 

@@ -9,6 +9,7 @@
     Jax Newton -- Back End Lead -- @jnewt
     Bree Sparrow -- Team Lead -- @2breezyB
     Sheena Ray -- Project Coordinator -- @sheena.ray
+    James McVoy -- Project Advisor -- @mcvoy.jay
 
 # THANKS
 

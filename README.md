@@ -19,7 +19,7 @@ You'll learn how to:
 
 ## Purpose
 
-For those who want to add more Git awesomeness to their development tool belt, this is the perfect place to start.
+For those who want to add more Git awesomeness to their development tool belt, this is the perfect place to start. It's a wonderful Git resource.
 
 ## Deployment
 
@@ -32,4 +32,4 @@ Then Git to it and start contributing with your bad self.
 
 ### Copyright
 
-Git Training 2019
+Git Training 2019. All rights reserved.

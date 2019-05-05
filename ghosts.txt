@@ -1,5 +1,17 @@
-A file for ghosts, readable by ghosts, all else must avert their eyes or be cursed.
+PISTACHIO:
 
-A place for the unresolved wanderers who seek solace and salvation from the dark beyond.
+  A place for the unresolved wanderers who seek solace and salvation from the dark beyond.
 
-Weary he be, the lonely traveler treading abandoned avenues of wretched way.
+  Weary he be, the lonely traveler treading abandoned avenues of wretched way.
+
+DUNCAN:
+
+  A file for ghosts, readable by ghosts, all else must avert their eyes or be cursed.
+
+  If you've read this far, there is no going back, for though is doomed from here to an eternity.
+
+MYA:
+
+  I'm am the ghost of retribution and serve to teach those who are damned the way of the quaking shadow.
+
+  The quaking shadow is how we of purgatory place come to terms with our endless agony.
